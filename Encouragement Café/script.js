@@ -1,0 +1,1 @@
+document.querySelector('#next').onclick=()=>{document.querySelector('#message').textContent='Message 2: You can do this.';};
